@@ -1,0 +1,14 @@
+h1 {
+   color:darkgreen 
+}
+
+p{
+    color:lightgreen
+
+}
+.container{
+    width: 600px;
+    background-color: cornsilk;
+}
+margin:auto;
+padding: 50px;
