@@ -1,3 +1,5 @@
+body{}
+
 h1 {
    color:darkgreen 
 }
@@ -6,9 +8,11 @@ p{
     color:lightgreen
 
 }
-.container{
+.container
     width: 600px;
-    background-color: cornsilk;
-}
+    background-color: #;
+    background-color: rgb(163, 132, 8);
+    border:5px dashed
 margin:auto;
-padding: 50px;
+padding: 20px;
+
